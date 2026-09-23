@@ -1,0 +1,8 @@
+paper/*.aux
+paper/*.log
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.out
+paper/build.log
+__pycache__/

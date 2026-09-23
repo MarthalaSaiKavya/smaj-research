@@ -1,0 +1,233 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ameisen et~al.(2025)Ameisen, Lindsey, Pearce,
+  et~al.]{ameisen2025circuit}
+Emmanuel Ameisen, Jack Lindsey, Adam Pearce, et~al.
+\newblock Circuit tracing: Revealing computational graphs in language models.
+\newblock \emph{Transformer Circuits Thread}, 2025.
+\newblock URL
+  \url{https://transformer-circuits.pub/2025/attribution-graphs/methods.html}.
+
+\bibitem[Baillargeon et~al.(1985)Baillargeon, Spelke, and
+  Wasserman]{baillargeon1985object}
+Ren{\'e}e Baillargeon, Elizabeth~S. Spelke, and Stanley Wasserman.
+\newblock Object permanence in five-month-old infants.
+\newblock \emph{Cognition}, 20\penalty0 (3):\penalty0 191--208, 1985.
+
+\bibitem[Beyer et~al.(2024)Beyer, Steiner, Pinto, et~al.]{beyer2024paligemma}
+Lucas Beyer, Andreas Steiner, Andr{\'e}~Susano Pinto, et~al.
+\newblock {PaliGemma}: A versatile {3B} {VLM} for transfer.
+\newblock \emph{arXiv preprint arXiv:2407.07726}, 2024.
+
+\bibitem[Black et~al.(2024)Black, Brown, Driess, Esmail, Equi, Finn,
+  et~al.]{black2024pi0}
+Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Equi, Chelsea
+  Finn, et~al.
+\newblock $\pi_0$: A vision-language-action flow model for general robot
+  control.
+\newblock \emph{arXiv preprint arXiv:2410.24164}, 2024.
+
+\bibitem[Bricken et~al.(2023)Bricken, Templeton, Batson,
+  et~al.]{bricken2023monosemanticity}
+Trenton Bricken, Adly Templeton, Joshua Batson, et~al.
+\newblock Towards monosemanticity: Decomposing language models with dictionary
+  learning.
+\newblock \emph{Transformer Circuits Thread}, 2023.
+\newblock URL
+  \url{https://transformer-circuits.pub/2023/monosemantic-features}.
+
+\bibitem[Brohan et~al.(2023)Brohan, Brown, Carbajal, et~al.]{brohan2023rt2}
+Anthony Brohan, Noah Brown, Justice Carbajal, et~al.
+\newblock {RT-2}: Vision-language-action models transfer web knowledge to
+  robotic control.
+\newblock \emph{arXiv preprint arXiv:2307.15818}, 2023.
+
+\bibitem[Buurmeijer et~al.(2026)Buurmeijer, Amo~Alonso, Swann, and
+  Pavone]{buurmeijer2026observing}
+Hugo Buurmeijer, Carmen Amo~Alonso, Aiden Swann, and Marco Pavone.
+\newblock Observing and controlling features in vision-language-action models.
+\newblock \emph{arXiv preprint arXiv:2603.05487}, 2026.
+
+\bibitem[Cadene et~al.(2024)Cadene, Alibert, Soare, Gallouedec, Zouitine, and
+  Wolf]{cadene2024lerobot}
+Remi Cadene, Simon Alibert, Alexander Soare, Quentin Gallouedec, Adil Zouitine,
+  and Thomas Wolf.
+\newblock {LeRobot}: State-of-the-art machine learning for real-world robotics
+  in {PyTorch}.
+\newblock \url{https://github.com/huggingface/lerobot}, 2024.
+
+\bibitem[Cunningham et~al.(2024)Cunningham, Ewart, Riggs, Huben, and
+  Sharkey]{cunningham2024sparse}
+Hoagy Cunningham, Aidan Ewart, Logan Riggs, Robert Huben, and Lee Sharkey.
+\newblock Sparse autoencoders find highly interpretable features in language
+  models.
+\newblock In \emph{International Conference on Learning Representations}, 2024.
+\newblock arXiv:2309.08600.
+
+\bibitem[Damianos et~al.(2026)Damianos, Voukoutis, Skyrianos, Katsouros, and
+  Paraskevopoulos]{damianos2026transcoders}
+Dimitrios Damianos, Leon Voukoutis, Georgios Skyrianos, Vassilis Katsouros, and
+  Georgios Paraskevopoulos.
+\newblock Transcoders trace visual grounding and hallucinations in
+  vision-language models.
+\newblock \emph{arXiv preprint arXiv:2605.22902}, 2026.
+
+\bibitem[Dunefsky et~al.(2024)Dunefsky, Chlenski, and
+  Nanda]{dunefsky2024transcoders}
+Jacob Dunefsky, Philippe Chlenski, and Neel Nanda.
+\newblock Transcoders find interpretable {LLM} feature circuits.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2024.
+\newblock arXiv:2406.11944.
+
+\bibitem[Gao et~al.(2025)Gao, Dupr{\'e}~la Tour, Tillman, Goh, Troll, Radford,
+  Sutskever, Leike, and Wu]{gao2025scaling}
+Leo Gao, Tom Dupr{\'e}~la Tour, Henk Tillman, Gabriel Goh, Rajan Troll, Alec
+  Radford, Ilya Sutskever, Jan Leike, and Jeffrey Wu.
+\newblock Scaling and evaluating sparse autoencoders.
+\newblock In \emph{International Conference on Learning Representations}, 2025.
+\newblock arXiv:2406.04093.
+
+\bibitem[{Gemma Team}(2024)]{gemma2024}
+{Gemma Team}.
+\newblock Gemma: Open models based on gemini research and technology.
+\newblock \emph{arXiv preprint arXiv:2403.08295}, 2024.
+
+\bibitem[Grant et~al.(2026)Grant, Zhao, and Wang]{grant2026features}
+Bryce Grant, Xijia Zhao, and Peng Wang.
+\newblock Not all features are created equal: A mechanistic study of
+  vision-language-action models.
+\newblock \emph{arXiv preprint arXiv:2603.19233}, 2026.
+
+\bibitem[H{\"a}on et~al.(2025)H{\"a}on, Stocking, Chuang, and
+  Tomlin]{haon2025mechanistic}
+Bear H{\"a}on, Kaylene Stocking, Ian Chuang, and Claire Tomlin.
+\newblock Mechanistic interpretability for steering vision-language-action
+  models.
+\newblock In \emph{Conference on Robot Learning}, 2025.
+\newblock arXiv:2509.00328.
+
+\bibitem[Heimersheim \& Nanda(2024)Heimersheim and
+  Nanda]{heimersheim2024patching}
+Stefan Heimersheim and Neel Nanda.
+\newblock How to use and interpret activation patching.
+\newblock \emph{arXiv preprint arXiv:2404.15255}, 2024.
+
+\bibitem[Jin et~al.(2026)Jin, Chatterjee, Kumar, and Paleja]{jin2026event}
+Xinchen Jin, Aditya Chatterjee, Pranav Kumar, and Rohan Paleja.
+\newblock Event-grounded sparse autoencoders for vision-language-action
+  policies.
+\newblock \emph{arXiv preprint arXiv:2605.17204}, 2026.
+
+\bibitem[Kim et~al.(2024)Kim, Pertsch, Karamcheti, et~al.]{kim2024openvla}
+Moo~Jin Kim, Karl Pertsch, Siddharth Karamcheti, et~al.
+\newblock {OpenVLA}: An open-source vision-language-action model.
+\newblock \emph{arXiv preprint arXiv:2406.09246}, 2024.
+
+\bibitem[Lindsey et~al.(2025)Lindsey, Gurnee, Ameisen,
+  et~al.]{lindsey2025biology}
+Jack Lindsey, Wes Gurnee, Emmanuel Ameisen, et~al.
+\newblock On the biology of a large language model.
+\newblock \emph{Transformer Circuits Thread}, 2025.
+\newblock URL
+  \url{https://transformer-circuits.pub/2025/attribution-graphs/biology.html}.
+
+\bibitem[Lipman et~al.(2023)Lipman, Chen, Ben-Hamu, Nickel, and
+  Le]{lipman2023flow}
+Yaron Lipman, Ricky T.~Q. Chen, Heli Ben-Hamu, Maximilian Nickel, and Matt Le.
+\newblock Flow matching for generative modeling.
+\newblock In \emph{International Conference on Learning Representations}, 2023.
+
+\bibitem[Liu et~al.(2023)Liu, Zhu, Gao, Feng, Liu, Zhu, and
+  Stone]{liu2023libero}
+Bo~Liu, Yifeng Zhu, Chongkai Gao, Yihao Feng, Qiang Liu, Yuke Zhu, and Peter
+  Stone.
+\newblock {LIBERO}: Benchmarking knowledge transfer for lifelong robot
+  learning.
+\newblock In \emph{Advances in Neural Information Processing Systems, Datasets
+  and Benchmarks Track}, 2023.
+\newblock arXiv:2306.03310.
+
+\bibitem[Makelov et~al.(2024)Makelov, Lange, and Nanda]{makelov2024subspace}
+Aleksandar Makelov, Georg Lange, and Neel Nanda.
+\newblock Is this the subspace you are looking for? an interpretability
+  illusion for subspace activation patching.
+\newblock In \emph{International Conference on Learning Representations}, 2024.
+
+\bibitem[Marks et~al.(2025)Marks, Rager, Michaud, Belinkov, Bau, and
+  Mueller]{marks2025sparse}
+Samuel Marks, Can Rager, Eric~J. Michaud, Yonatan Belinkov, David Bau, and
+  Aaron Mueller.
+\newblock Sparse feature circuits: Discovering and editing interpretable causal
+  graphs in language models.
+\newblock In \emph{International Conference on Learning Representations}, 2025.
+\newblock arXiv:2403.19647.
+
+\bibitem[Meng et~al.(2022)Meng, Bau, Andonian, and Belinkov]{meng2022locating}
+Kevin Meng, David Bau, Alex Andonian, and Yonatan Belinkov.
+\newblock Locating and editing factual associations in {GPT}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2022.
+
+\bibitem[{Physical Intelligence} et~al.(2025){Physical Intelligence}, Black,
+  Brown, Darpinian, Dhabalia, Driess, Esmail, Equi, et~al.]{pi2025pi05}
+{Physical Intelligence}, Kevin Black, Noah Brown, James Darpinian, Karan
+  Dhabalia, Danny Driess, Adnan Esmail, Michael Equi, et~al.
+\newblock $\pi_{0.5}$: a vision-language-action model with open-world
+  generalization.
+\newblock \emph{arXiv preprint arXiv:2504.16054}, 2025.
+
+\bibitem[Shi et~al.(2026)Shi, Ren, Zhang, Zhang, Hu, Shan, Dong, Lu, Chen,
+  Zhang, Dai, and Ju]{shi2026vlatrace}
+Haoyuan Shi, Xiancong Ren, Yingji Zhang, Qinfan Zhang, Jiayu Hu, Haozhe Shan,
+  Han Dong, Jinpeng Lu, Yinda Chen, Yi~Zhang, Yong Dai, and Xiaozhu Ju.
+\newblock {VLA-Trace}: Diagnosing vision-language-action models through
+  representation and behavior tracing.
+\newblock \emph{arXiv preprint arXiv:2605.30117}, 2026.
+
+\bibitem[Sun et~al.(2024)Sun, Chen, Kolter, and Liu]{sun2024massive}
+Mingjie Sun, Xinlei Chen, J.~Zico Kolter, and Zhuang Liu.
+\newblock Massive activations in large language models.
+\newblock In \emph{Conference on Language Modeling}, 2024.
+\newblock arXiv:2402.17762.
+
+\bibitem[Swann et~al.(2026)Swann, McGranahan, Buurmeijer, Kennedy~III, and
+  Schwager]{swann2026sparse}
+Aiden Swann, Lachlain McGranahan, Hugo Buurmeijer, Monroe Kennedy~III, and Mac
+  Schwager.
+\newblock Sparse autoencoders reveal interpretable and steerable features in
+  {VLA} models.
+\newblock \emph{arXiv preprint arXiv:2603.19183}, 2026.
+
+\bibitem[Wang et~al.(2023)Wang, Variengien, Conmy, Shlegeris, and
+  Steinhardt]{wang2023interpretability}
+Kevin Wang, Alexandre Variengien, Arthur Conmy, Buck Shlegeris, and Jacob
+  Steinhardt.
+\newblock Interpretability in the wild: a circuit for indirect object
+  identification in {GPT-2} small.
+\newblock In \emph{International Conference on Learning Representations}, 2023.
+
+\bibitem[Zhai et~al.(2023)Zhai, Mustafa, Kolesnikov, and Beyer]{zhai2023siglip}
+Xiaohua Zhai, Basil Mustafa, Alexander Kolesnikov, and Lucas Beyer.
+\newblock Sigmoid loss for language image pre-training.
+\newblock In \emph{IEEE/CVF International Conference on Computer Vision}, 2023.
+
+\bibitem[Zhang \& Nanda(2024)Zhang and Nanda]{zhang2024towards}
+Fred Zhang and Neel Nanda.
+\newblock Towards best practices of activation patching in language models:
+  Metrics and methods.
+\newblock In \emph{International Conference on Learning Representations}, 2024.
+\newblock arXiv:2309.16042.
+
+\bibitem[Zhang et~al.(2026)Zhang, Xu, Dhafer, Yue, Dong, and
+  Hao]{zhang2026embodied}
+Hanxin Zhang, Mingshuo Xu, Abdulqader Dhafer, Shigang Yue, Hongbiao Dong, and
+  Zhou~Daniel Hao.
+\newblock Embodied interpretability: Linking causal understanding to
+  generalization in vision-language-action models.
+\newblock \emph{arXiv preprint arXiv:2605.00321}, 2026.
+
+\end{thebibliography}
