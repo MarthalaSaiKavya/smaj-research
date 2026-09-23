@@ -1,0 +1,38 @@
+[
+  {
+    "from_layer": 0,
+    "to_layer": 4,
+    "source": "occ",
+    "mean_frac_recovered": 0.007877371176446301
+  },
+  {
+    "from_layer": 0,
+    "to_layer": 4,
+    "source": "random",
+    "mean_frac_recovered": -0.0030405470962893253
+  },
+  {
+    "from_layer": 0,
+    "to_layer": 5,
+    "source": "occ",
+    "mean_frac_recovered": 0.0006372453206626245
+  },
+  {
+    "from_layer": 0,
+    "to_layer": 5,
+    "source": "random",
+    "mean_frac_recovered": 0.0009711797971404651
+  },
+  {
+    "from_layer": 4,
+    "to_layer": 5,
+    "source": "occ",
+    "mean_frac_recovered": 0.02307461223905311
+  },
+  {
+    "from_layer": 4,
+    "to_layer": 5,
+    "source": "random",
+    "mean_frac_recovered": 0.0004468265546771549
+  }
+]

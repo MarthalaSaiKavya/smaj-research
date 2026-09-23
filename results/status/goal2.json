@@ -1,0 +1,117 @@
+{
+  "step": "goal2",
+  "passed": false,
+  "time": "2026-09-23 05:27:46",
+  "verdict": {
+    "5": {
+      "occ": 1.9160455298164736,
+      "random_same_norm": 0.2735429348416252,
+      "random_raw": 0.30614647669832235,
+      "color": 0.45714305579259984,
+      "margin_vs_best_control": 1.4589024740238736,
+      "mlp_site_ceiling": 4.146080978969993,
+      "occ_share_of_ceiling_pct": 46.21341308901485,
+      "margin_share_of_ceiling_pts": 35.18750553652494,
+      "occ_remove": 8.389112314162706,
+      "mlp_site_ceiling_remove": 22.527189557233907,
+      "passed_absolute": false,
+      "passed_normalized": false,
+      "passed": false
+    },
+    "0": {
+      "occ": 0.18172557641423226,
+      "random_same_norm": 0.2696612163316553,
+      "random_raw": 0.196805105721104,
+      "color": 0.36543257314472777,
+      "margin_vs_best_control": -0.1837069967304955,
+      "mlp_site_ceiling": 3.090037648454736,
+      "occ_share_of_ceiling_pct": 5.881014961261377,
+      "margin_share_of_ceiling_pts": -5.94513781482124,
+      "occ_remove": 9.360422464827728,
+      "mlp_site_ceiling_remove": 16.144790212936005,
+      "passed_absolute": false,
+      "passed_normalized": false,
+      "passed": false
+    },
+    "4": {
+      "occ": 1.1651933234301,
+      "random_same_norm": 0.19500448956267236,
+      "random_raw": 0.2276693663599061,
+      "color": 0.24956820568775573,
+      "margin_vs_best_control": 0.9156251177423442,
+      "mlp_site_ceiling": 5.55333717002263,
+      "occ_share_of_ceiling_pct": 20.981858074815072,
+      "margin_share_of_ceiling_pts": 16.487835867142444,
+      "occ_remove": -1.5817689909763317,
+      "mlp_site_ceiling_remove": 23.928971240567016,
+      "passed_absolute": false,
+      "passed_normalized": false,
+      "passed": false
+    },
+    "all": {
+      "occ": 3.916980342364459,
+      "random_same_norm": 0.5648667077227959,
+      "random_raw": 0.5299962232395605,
+      "color": 0.6556620691772735,
+      "margin_vs_best_control": 3.2613182731871855,
+      "mlp_site_ceiling": 65.52786988368315,
+      "occ_share_of_ceiling_pct": 5.97757923356488,
+      "margin_share_of_ceiling_pts": 4.9769941842704,
+      "occ_remove": 7.9185958508010685,
+      "mlp_site_ceiling_remove": 85.5981135232237,
+      "passed_absolute": false,
+      "passed_normalized": false,
+      "passed": false
+    }
+  },
+  "passing_layers": [],
+  "best_layer": "all",
+  "rule": "absolute",
+  "features": {
+    "5": [
+      318,
+      177,
+      505,
+      270,
+      32,
+      124
+    ],
+    "0": [
+      274,
+      396,
+      415,
+      269
+    ],
+    "4": [
+      112,
+      317,
+      397,
+      59,
+      158,
+      333,
+      359,
+      150
+    ]
+  },
+  "goal3_layers": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "reason": "occlusion features do not beat random/color by the margin at any site (single layers or all layers) -> Goal 2's null is the finding; skip Goal 3"
+}

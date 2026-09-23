@@ -1,0 +1,115 @@
+{
+  "step": "frames",
+  "passed": true,
+  "time": "2026-09-23 04:31:40",
+  "n_probe_frames": 4,
+  "probe": [
+    {
+      "frame_id": 0,
+      "episode": "demo:demo_0",
+      "t": 35,
+      "edit_info": {
+        "image": {
+          "mask_px": 491,
+          "occ_px": 779,
+          "slab_shift": [
+            -32,
+            0
+          ],
+          "slab_tag": "clear"
+        },
+        "image2": {
+          "mask_px": 7482,
+          "occ_px": 8381,
+          "slab_shift": [
+            94,
+            0
+          ],
+          "slab_tag": "clear"
+        }
+      },
+      "mask_source": "segmentation"
+    },
+    {
+      "frame_id": 1,
+      "episode": "demo:demo_0",
+      "t": 41,
+      "edit_info": {
+        "image": {
+          "mask_px": 354,
+          "occ_px": 610,
+          "slab_shift": [
+            0,
+            -50
+          ],
+          "slab_tag": "clear"
+        },
+        "image2": {
+          "mask_px": 13257,
+          "occ_px": 14206,
+          "slab_shift": [
+            0,
+            0
+          ],
+          "slab_tag": "no_room"
+        }
+      },
+      "mask_source": "segmentation"
+    },
+    {
+      "frame_id": 2,
+      "episode": "demo:demo_1",
+      "t": 5,
+      "edit_info": {
+        "image": {
+          "mask_px": 779,
+          "occ_px": 997,
+          "slab_shift": [
+            0,
+            -50
+          ],
+          "slab_tag": "clear"
+        },
+        "image2": {
+          "mask_px": 2662,
+          "occ_px": 3051,
+          "slab_shift": [
+            0,
+            79
+          ],
+          "slab_tag": "clear"
+        }
+      },
+      "mask_source": "segmentation"
+    },
+    {
+      "frame_id": 3,
+      "episode": "demo:demo_1",
+      "t": 32,
+      "edit_info": {
+        "image": {
+          "mask_px": 437,
+          "occ_px": 678,
+          "slab_shift": [
+            -29,
+            0
+          ],
+          "slab_tag": "clear"
+        },
+        "image2": {
+          "mask_px": 6801,
+          "occ_px": 7445,
+          "slab_shift": [
+            94,
+            0
+          ],
+          "slab_tag": "clear"
+        }
+      },
+      "mask_source": "segmentation"
+    }
+  ],
+  "n_extra_train_frames": 23,
+  "target_object": "akita_black_bowl_1",
+  "reason": ""
+}

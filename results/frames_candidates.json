@@ -1,0 +1,114 @@
+[
+  {
+    "episode": "demo:demo_0",
+    "t": 5,
+    "mask_px_agentview": 788,
+    "mask_px_wrist": 2530,
+    "gap": 0.3075679838657379
+  },
+  {
+    "episode": "demo:demo_0",
+    "t": 11,
+    "mask_px_agentview": 788,
+    "mask_px_wrist": 2702,
+    "gap": 0.15215621888637543
+  },
+  {
+    "episode": "demo:demo_0",
+    "t": 17,
+    "mask_px_agentview": 788,
+    "mask_px_wrist": 3039,
+    "gap": 0.20381970703601837
+  },
+  {
+    "episode": "demo:demo_0",
+    "t": 23,
+    "mask_px_agentview": 788,
+    "mask_px_wrist": 4437,
+    "gap": 0.21743367612361908
+  },
+  {
+    "episode": "demo:demo_0",
+    "t": 29,
+    "mask_px_agentview": 775,
+    "mask_px_wrist": 5668,
+    "gap": 0.36322852969169617
+  },
+  {
+    "episode": "demo:demo_0",
+    "t": 35,
+    "mask_px_agentview": 491,
+    "mask_px_wrist": 7482,
+    "gap": 0.5196904540061951
+  },
+  {
+    "episode": "demo:demo_0",
+    "t": 41,
+    "mask_px_agentview": 354,
+    "mask_px_wrist": 13257,
+    "gap": 0.5158223509788513
+  },
+  {
+    "episode": "demo:demo_0",
+    "t": 47,
+    "mask_px_agentview": 424,
+    "mask_px_wrist": 10918,
+    "gap": 0.4817086160182953
+  },
+  {
+    "episode": "demo:demo_1",
+    "t": 5,
+    "mask_px_agentview": 779,
+    "mask_px_wrist": 2662,
+    "gap": 0.6664577126502991
+  },
+  {
+    "episode": "demo:demo_1",
+    "t": 10,
+    "mask_px_agentview": 779,
+    "mask_px_wrist": 2693,
+    "gap": 0.4718433916568756
+  },
+  {
+    "episode": "demo:demo_1",
+    "t": 16,
+    "mask_px_agentview": 779,
+    "mask_px_wrist": 3704,
+    "gap": 0.3819446861743927
+  },
+  {
+    "episode": "demo:demo_1",
+    "t": 21,
+    "mask_px_agentview": 779,
+    "mask_px_wrist": 2772,
+    "gap": 0.2778952717781067
+  },
+  {
+    "episode": "demo:demo_1",
+    "t": 27,
+    "mask_px_agentview": 621,
+    "mask_px_wrist": 2548,
+    "gap": 0.2256576418876648
+  },
+  {
+    "episode": "demo:demo_1",
+    "t": 32,
+    "mask_px_agentview": 437,
+    "mask_px_wrist": 6801,
+    "gap": 0.5219448208808899
+  },
+  {
+    "episode": "demo:demo_1",
+    "t": 38,
+    "mask_px_agentview": 464,
+    "mask_px_wrist": 20352,
+    "gap": 0.41703909635543823
+  },
+  {
+    "episode": "demo:demo_1",
+    "t": 43,
+    "mask_px_agentview": 532,
+    "mask_px_wrist": 17183,
+    "gap": 0.5188430547714233
+  }
+]
